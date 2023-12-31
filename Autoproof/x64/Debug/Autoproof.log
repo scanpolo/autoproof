@@ -1,0 +1,3 @@
+﻿  Autoproof.cpp
+C:\Users\贺润宇\Desktop\Files\cpp\Autoproof\Autoproof.cpp(39,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Autoproof.vcxproj -> C:\Users\贺润宇\Desktop\Files\cpp\Autoproof\x64\Debug\Autoproof.exe
